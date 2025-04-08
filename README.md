@@ -4,7 +4,7 @@ This repository contains my GSoC 2025 proposal submitted to the JAX/Flax organiz
 
 ## 📄 Proposal
 
-- [View Proposal (PDF)](./proposal.pdf)
+- [View Proposal (PDF)](./Proposal.pdf)
 
 ## 🧠 Summary
 
@@ -16,7 +16,7 @@ This project focuses on implementing open-source LLMs using **JAX** and **Flax**
 
 ## 📅 Timeline
 
-See full proposal [here](./proposal.pdf) for deliverables and schedule.
+See full proposal [here](./Proposal.pdf) for deliverables and schedule.
 
 ## 📬 Contact
 
