@@ -4,7 +4,7 @@ This repository contains my GSoC 2025 proposal submitted to the JAX/Flax organiz
 
 ## 📄 Proposal
 
-- [View Proposal (PDF)](./Proposal.pdf)
+- [View Proposal (PDF)](./Google Summer of Code 2025 Proposal.pdf)
 
 ## 🧠 Summary
 
